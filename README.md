@@ -30,7 +30,3 @@ Tools & Platforms: Redis, Docker, AWS, Ngrok, Jest, PM2
 ---
 #### 🔮 OS
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AdeosunDeji&label=Profile%20Visits&color=0e75b6&style=flat" alt="Number of visits to Tega's GitHub" /> </p>
-
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeosunDeji&langs_count=8&layout=compact&hide_border=true" alt="Tega's GitHub stats" /> |
